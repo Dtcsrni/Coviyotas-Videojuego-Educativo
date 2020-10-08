@@ -1,0 +1,2 @@
+|Ejecutables para Build Windows x64: https://drive.google.com/file/d/1Ghf2MKRPidAvPyGlhJm4XGbpmzQeDo7o/view?usp=sharing
+Los archivos ejecutables para correr el juego se encuentran en un archivo .exe autoextraible
